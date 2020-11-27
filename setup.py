@@ -31,7 +31,7 @@ setup(
         'Programming Language :: Python :: 3.7',
         'Programming Language :: Python :: 3.8',
     ],
-    description="This is my first attempt at writing a domain driven design project inpython. following the instructions by leonardo giordani",
+    description="This is my first attempt at writing a domain driven design project in python. following the instructions by leonardo giordani",
     entry_points={
         'console_scripts': [
             'ddd_attempt1=ddd_attempt1.cli:main',
