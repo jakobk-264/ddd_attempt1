@@ -1,7 +1,6 @@
 import pytest
 
-from ddd_attempt1.shared import response_object as res
-from ddd_attempt1.use_cases import request_objects as req
+from ddd_attempt1.shared import response_object as res, request_object as req
 
 
 @pytest.fixture

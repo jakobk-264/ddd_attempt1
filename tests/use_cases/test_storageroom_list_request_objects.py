@@ -1,4 +1,4 @@
-from ddd_attempt1.use_cases import request_objects as ro
+from ddd_attempt1.shared import request_object as ro
 
 
 def test_build_storageroom_list_request_object_without_parameters():

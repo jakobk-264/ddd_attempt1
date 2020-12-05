@@ -4,8 +4,7 @@ import pytest
 from unittest import mock
 
 from ddd_attempt1.domain.storageroom import StorageRoom
-from ddd_attempt1.shared import response_object as res
-from ddd_attempt1.use_cases import request_objects as req
+from ddd_attempt1.shared import response_object as res, request_object as req
 from ddd_attempt1.use_cases import storageroom_use_cases as uc
 
 
